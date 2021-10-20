@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAJhRoOtCn8p-xTYejmOhhQfwLMbQ1zGVY",
-  authDomain: "critical-eye-care-hospital.firebaseapp.com",
-  projectId: "critical-eye-care-hospital",
-  storageBucket: "critical-eye-care-hospital.appspot.com",
-  messagingSenderId: "893515313153",
-  appId: "1:893515313153:web:ee7083c2a410f0fb359000"
+  apiKey: "AIzaSyC5U-5r2s2g2kIqRdlkbWAwWdUaOmq4148",
+  authDomain: "birdem-general-hospital-94e8c.firebaseapp.com",
+  projectId: "birdem-general-hospital-94e8c",
+  storageBucket: "birdem-general-hospital-94e8c.appspot.com",
+  messagingSenderId: "746714888991",
+  appId: "1:746714888991:web:9f2e93969ed9849b570e2a"
 };
 
 export default firebaseConfig;
