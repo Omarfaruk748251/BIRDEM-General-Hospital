@@ -1,0 +1,21 @@
+.footer-container{
+    margin-top: 80px;
+}
+.footer-container{
+    background-color: rgb(39, 109, 150);
+}
+.footer-contact{
+    color: #45ebab;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+}
+.py-2{
+    color: rgb(7, 0, 36);
+}
+.footer-item{
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+.copyright-text{
+    letter-spacing: 2px;
+}
